@@ -43,7 +43,6 @@ DB_USER=root
 DB_PASSWORD=yourpassword
 DB_HOST=localhost
 DB_DIALECT=mysql
-JWT_SECRET=your_jwt_secret
 ```
 
 ### 4. Sync the database:
