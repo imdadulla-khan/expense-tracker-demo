@@ -13,7 +13,7 @@ const Register = () => {
         email,
         password,
       });
-      navigate("/login");
+      navigate("/");
     } catch (error) {
       alert("Registration failed.");
     }
